@@ -12,6 +12,9 @@
     <OutputPath>.</OutputPath>
     <Name>speakobot</Name>
     <RootNamespace>speakobot</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>-T 392135412:AAF8Fq5pFzZPjJw8HGGTnjvjZVOB9-hEhHQ</CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
